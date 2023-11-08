@@ -1,0 +1,11 @@
+$ git init
+$ git add filename.extension    ----helps to add one file to github
+$ git add.    -----helps to add all files and folder to github
+$git status  ---to check status of folder what changes made 
+
+$ git commit -m "message"   ----
+$ git remote add origin repositorylink -------
+$ git push origin master
+
+git config --global user.name 
+git config --global user.email
